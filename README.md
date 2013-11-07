@@ -136,3 +136,4 @@ Blueprint is [BSD-licensed](https://github.com/devstructure/blueprint/blob/maste
 * Wiki: <https://github.com/devstructure/blueprint/wiki>
 * Mailing list: <https://groups.google.com/forum/#!forum/blueprint-users>
 * IRC: `#devstructure` on Freenode
+
